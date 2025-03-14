@@ -1,3 +1,45 @@
+Projeto Todo List com Piadas do Chuck Norris
+
+Descrição: Este projeto é uma aplicação de lista de tarefas, Construida com React, Ele permite que os usuários adicionem e removam tarefas, e exibe uma piada do chuck norris que é atualizada a cada 5 segundos.
+
+Funcionalidades:
+
+•	Adicionar novas tarefas com o nome e descrição.
+
+•	Remover tarefas existentes.
+
+•	Contar o número de tarefas removidas.
+
+•	Exibir uma piada do Chuck Norris que é atualizada a cada 5 segundos.
+
+ 
+
+Instalação:
+1.	Clone o repositórios para o seu ambiente local:
+git clone https://github.com/seu-usuario/projeto-tudo.git
+cd projeto-tudo
+2.	Instale as dependências do projeto: 
+npm install
+
+3.	Inicie o projeto:
+npm start
+Como Utilizar:
+Adicionar uma Tarefa
+1.	Digite o nome da tarefa no campo “Task Name”.
+2.	Digite a descrição da tarefa no campo “Task Description”.
+3.	Clique no botão “Create todo para adicionar a tarefa á lista
+
+Remover uma Tarefa
+1.	Clique no “x” vermelho ao lado da tarefa que deseja remover.
+Piada do Chuck Norris
+A piada é exibida na parte inferior da pagina.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
